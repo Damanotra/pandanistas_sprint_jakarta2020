@@ -71,6 +71,9 @@ If you come across any trouble, feel free to contact me - Galuh <https://twitter
 ## Checklist
 You can follow this [checklist](https://python-sprints.github.io/pandas/dashboard.html) to help you during the day.
 
+# Credits
+This repository is adapted & modified from <https://github.com/WiMLDS/berlin-2020-scikit-sprint />. Thank you!
+
 ---
 
 # Waktu
@@ -147,3 +150,6 @@ Kamu bisa mengikuti [checklist](https://python-sprints.github.io/pandas/dashboar
 
 # Kontak
 - Galuh (<https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />).
+
+# Terima kasih
+Repositori ini diadaptasi dan dimodifikasi dari <https://github.com/WiMLDS/berlin-2020-scikit-sprint />. Terima kasih!
