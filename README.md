@@ -1,17 +1,17 @@
 2020 Pandanistas Documentation Sprint Jakarta
 
-> Versi Bahasa Indonesia dapat [di sini](https://github.com/pandanistas/pandanistas_sprint_jakarta2020#bahasa-indonesia).
+> Versi Bahasa Indonesia dapat dibaca [di sini](https://github.com/pandanistas/pandanistas_sprint_jakarta2020#bahasa-indonesia).
 
 [Registration Link](https://tba)
 
 # When
-Saturday, February 15 2020
-2.30 PM - 8.30 PM
+- Saturday, February 15 2020
+- 2.30 PM - 8.30 PM
 
 # Where
-Mozilla Community Space
-Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
-[Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
+- Mozilla Community Space
+- Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
+- [Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
 
 # Key Links
 - [Pandas on GitHub](https://github.com/pandas-dev/pandas)
