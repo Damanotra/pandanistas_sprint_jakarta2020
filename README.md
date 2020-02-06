@@ -1,0 +1,149 @@
+2020 Pandanistas Documentation Sprint Jakarta
+
+[Registration Link](https://tba)
+
+# When
+Saturday, February 15 2020
+2.30 PM - 8.30 PM
+
+# Where
+Mozilla Community Space
+Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
+[Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
+
+# Key Links
+- [Pandas on GitHub](https://github.com/pandas-dev/pandas)
+- [Contribution guidelines](https://dev.pandas.io/docs/development/contributing.html)
+- [Docstring guide](https://dev.pandas.io/docs/development/contributing_docstring.html#docstring)
+
+## More references
+- [Why contribute to open source?](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
+- [Pandas documentation update](https://datapythonista.me/blog/pandas-documentation-update.html)
+- [Making your first contribution](https://galuh.me/posts/contributing-os-pt-1/)
+
+## Agenda
+- 2 pm: Registration open
+- 2.30 pm - 4.00 pm: Sprint
+- 4.00 - 4.30 pm: Break
+- 4.30 pm - 8.30 pm: Sprint
+
+---
+
+# Before the sprint
+## 1. Install Python
+Make sure you already have Python installed. If you haven't, follow the steps [here](https://www.python.org/downloads/).
+
+## 2. Setup GitHub Account
+- Open an account on [GitHub](https://github.com)
+- Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you haven't
+- Review some Git resources if you're not yet familiar with it, such as [Git - the Simple Guide](https://rogerdudler.github.io/git-guide/)
+
+## 3. Install a text editor
+Install any of your preferred editor, below are some examples:
+- Visual Studio Code
+- Sublime Text
+- Atom
+- etc.
+
+## 3. Join [Gitter]
+Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories. You can use your GitHub username to sign in.
+
+Join the Gitter community for Pandas documentation sprints:
+- <https://gitter.im/py-sprints/pandas-doc />
+
+## 4. Read through the [pandas contributing guideline](https://dev.pandas.io/docs/development/contributing.html)
+- Skip to [this part](https://dev.pandas.io/docs/development/contributing.html#contributing-to-the-documentation) to read about contributing to the documentation
+
+## 5. Setup the development environment
+- Documentation on how to setup the development environment: <https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env />
+
+If you come across any trouble, feel free to contact me - Galuh <https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />. I'd be happy to help!
+
+# During the sprint (Feb 15, 2020)
+- Bring your laptop and charger
+- Be respectful, no form of harassment or discrimination is tolerated. Please read the [Code of Conduct](https://pydata.org/code-of-conduct/)
+
+## What will happen during the sprint
+- The organizers will assign you a documentation page to work on for the day
+- You will work on the documentation page
+- If you're done, you will make a PR, and one of the pandas maintainers will review your PR before it can get merged
+
+## Checklist
+You can follow this [checklist](https://python-sprints.github.io/pandas/dashboard.html) to help you during the day.
+
+---
+
+# Waktu
+Sabtu, 15 Februari 2020
+14.00 - 20.30
+
+# Tempat
+Mozilla Community Space
+Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
+[Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
+
+# Tautan-tautan penting
+- [Pandas di GitHub](https://github.com/pandas-dev/pandas)
+- [Panduan berkontribusi](https://dev.pandas.io/docs/development/contributing.html)
+- [Panduan terkait docstring](https://dev.pandas.io/docs/development/contributing_docstring.html#docstring)
+
+## Referensi-referensi lain
+- [Mengapa berkontribusi pada open source?](https://opensource.guide/id/how-to-contribute/)
+- [Pandas documentation update](https://datapythonista.me/blog/pandas-documentation-update.html)
+- [Making your first contribution](https://galuh.me/posts/contributing-os-pt-1/)
+
+## Agenda
+- 2 pm: Registrasi dibuka
+- 2.30 pm - 4.00 pm: Sprint
+- 4.00 - 4.30 pm: Break
+- 4.30 pm - 8.30 pm: Sprint
+
+# Contact
+- Galuh (<https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />).
+
+---
+
+# Sebelum sprint
+## 1. Install Python
+Pastikan kamu sudah memiliki Python di laptop. Apabila belum, ikuti tahapan-tahapannya di [sini](https://www.python.org/downloads/).
+
+## 2. Setup GitHub Account
+- Buat akun [GitHub](https://github.com)
+- Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) apabila belum
+- Pelajari sumber-sumber belajar terkait Git apabila kamu belum terlalu familiar dengan Git, seperti [Git - the Simple Guide](https://rogerdudler.github.io/git-guide/)
+
+## 3. Install text editor
+Install editor yang kamu inginkan, berikut adalah contohnya:
+- Visual Studio Code
+- Sublime Text
+- Atom
+- etc.
+
+## 3. Bergabung di [Gitter]
+Gitter adalah open-source instant messaging dan chat room system untuk pengembang dan pengguna repositori GitHub. Kamu dapat menggunakan username GitHub-mu untuk sign in. 
+
+Bergabung dengan komunitas Gitter untuk Pandas documentation sprints:
+- <https://gitter.im/py-sprints/pandas-doc />
+
+## 4. Baca [pandas contributing guideline](https://dev.pandas.io/docs/development/contributing.html)
+- Kamu dapat langsung membaca [bagian ini](https://dev.pandas.io/docs/development/contributing.html#contributing-to-the-documentation) untuk membaca tentang berkontribusi ke dokumentasi pandas
+
+## 5. Mengatur development environment
+- Dokumentasi tentang bagaimana caranya mengatur development environment untuk pandas: <https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env />
+
+Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh <https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />. Saya akan dengan senang hati membantu! :)
+
+# Di saat sprint (Feb 15, 2020)
+- Bawa laptop dan charger-mu
+- Hormatilah satu sama lain, tidak ada bentuk pelecehan atau diskriminasi yang akan ditoleransi. Tolong baca [Code of Conduct](https://pydata.org/code-of-conduct/) terlebih dahulu.
+
+## Apa yang akan terjadi saat sprint
+- Panitia akan memberikan halaman dokumentasi untuk kamu kerjakan di hari-H
+- Kamu akan mengerjakan halaman dokumentasi tersebut
+- Jika sudah selesai, kamu akan membuat pull request (PR), dan salah satu maintainer pandas akan meninjau PR-mu sebelum dapat di-merge ke repositori pandas
+
+## Checklist
+Kamu bisa mengikuti [checklist](https://python-sprints.github.io/pandas/dashboard.html) ini untuk membantumu di hari-H.
+
+# Kontak
+- Galuh (<https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />).
