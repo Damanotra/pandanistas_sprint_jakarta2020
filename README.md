@@ -1,5 +1,7 @@
 2020 Pandanistas Documentation Sprint Jakarta
 
+> Versi Bahasa Indonesia dapat [di sini](https://github.com/pandanistas/pandanistas_sprint_jakarta2020#bahasa-indonesia).
+
 [Registration Link](https://tba)
 
 # When
@@ -75,6 +77,8 @@ You can follow this [checklist](https://python-sprints.github.io/pandas/dashboar
 This repository is adapted & modified from https://github.com/WiMLDS/berlin-2020-scikit-sprint. Thank you!
 
 ---
+
+# Bahasa Indonesia
 
 # Waktu
 Sabtu, 15 Februari 2020
