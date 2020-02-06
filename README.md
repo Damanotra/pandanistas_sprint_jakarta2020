@@ -49,15 +49,15 @@ Install any of your preferred editor, below are some examples:
 Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories. You can use your GitHub username to sign in.
 
 Join the Gitter community for Pandas documentation sprints:
-- <https://gitter.im/py-sprints/pandas-doc />
+- https://gitter.im/py-sprints/pandas-doc
 
 ## 4. Read through the [pandas contributing guideline](https://dev.pandas.io/docs/development/contributing.html)
 - Skip to [this part](https://dev.pandas.io/docs/development/contributing.html#contributing-to-the-documentation) to read about contributing to the documentation
 
 ## 5. Setup the development environment
-- Documentation on how to setup the development environment: <https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env />
+- Documentation on how to setup the development environment: https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env
 
-If you come across any trouble, feel free to contact me - Galuh <https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />. I'd be happy to help!
+If you come across any trouble, feel free to contact me - Galuh https://twitter.com/galuhsahid / https://github.com/galuhsahid. I'd be happy to help!
 
 # During the sprint (Feb 15, 2020)
 - Bring your laptop and charger
@@ -72,7 +72,7 @@ If you come across any trouble, feel free to contact me - Galuh <https://twitter
 You can follow this [checklist](https://python-sprints.github.io/pandas/dashboard.html) to help you during the day.
 
 # Credits
-This repository is adapted & modified from <https://github.com/WiMLDS/berlin-2020-scikit-sprint />. Thank you!
+This repository is adapted & modified from https://github.com/WiMLDS/berlin-2020-scikit-sprint. Thank you!
 
 ---
 
@@ -102,7 +102,7 @@ Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selat
 - 4.30 pm - 8.30 pm: Sprint
 
 # Contact
-- Galuh (<https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />).
+- Galuh (https://twitter.com/galuhsahid / https://github.com/galuhsahid).
 
 ---
 
@@ -126,15 +126,15 @@ Install editor yang kamu inginkan, berikut adalah contohnya:
 Gitter adalah open-source instant messaging dan chat room system untuk pengembang dan pengguna repositori GitHub. Kamu dapat menggunakan username GitHub-mu untuk sign in. 
 
 Bergabung dengan komunitas Gitter untuk Pandas documentation sprints:
-- <https://gitter.im/py-sprints/pandas-doc />
+- https://gitter.im/py-sprints/pandas-doc
 
 ## 4. Baca [pandas contributing guideline](https://dev.pandas.io/docs/development/contributing.html)
 - Kamu dapat langsung membaca [bagian ini](https://dev.pandas.io/docs/development/contributing.html#contributing-to-the-documentation) untuk membaca tentang berkontribusi ke dokumentasi pandas
 
 ## 5. Mengatur development environment
-- Dokumentasi tentang bagaimana caranya mengatur development environment untuk pandas: <https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env />
+- Dokumentasi tentang bagaimana caranya mengatur development environment untuk pandas: https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env
 
-Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh <https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />. Saya akan dengan senang hati membantu! :)
+Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh https://twitter.com/galuhsahid / https://github.com/galuhsahid. Saya akan dengan senang hati membantu! :)
 
 # Di saat sprint (Feb 15, 2020)
 - Bawa laptop dan charger-mu
@@ -149,7 +149,7 @@ Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh <https://twitter.c
 Kamu bisa mengikuti [checklist](https://python-sprints.github.io/pandas/dashboard.html) ini untuk membantumu di hari-H.
 
 # Kontak
-- Galuh (<https://twitter.com/galuhsahid /> / <https://github.com/galuhsahid />).
+- Galuh (https://twitter.com/galuhsahid / https://github.com/galuhsahid).
 
 # Terima kasih
-Repositori ini diadaptasi dan dimodifikasi dari <https://github.com/WiMLDS/berlin-2020-scikit-sprint />. Terima kasih!
+Repositori ini diadaptasi dan dimodifikasi dari https://github.com/WiMLDS/berlin-2020-scikit-sprint. Terima kasih!
