@@ -85,9 +85,9 @@ Sabtu, 15 Februari 2020
 14.00 - 20.30
 
 # Tempat
-Mozilla Community Space
-Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
-[Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
+- Mozilla Community Space
+- Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
+- [Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
 
 # Tautan-tautan penting
 - [Pandas di GitHub](https://github.com/pandas-dev/pandas)
@@ -106,7 +106,8 @@ Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selat
 - 4.30 pm - 8.30 pm: Sprint
 
 # Contact
-- Galuh (https://twitter.com/galuhsahid / https://github.com/galuhsahid).
+- Galuh (https://twitter.com/galuhsahid / https://github.com/galuhsahid)
+- Python ID (https://twitter.com/python_id)
 
 ---
 
@@ -153,7 +154,8 @@ Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh https://twitter.co
 Kamu bisa mengikuti [checklist](https://python-sprints.github.io/pandas/dashboard.html) ini untuk membantumu di hari-H.
 
 # Kontak
-- Galuh (https://twitter.com/galuhsahid / https://github.com/galuhsahid).
+- Galuh (https://twitter.com/galuhsahid / https://github.com/galuhsahid)
+- Python ID (https://twitter.com/python_id)
 
 # Terima kasih
 Repositori ini diadaptasi dan dimodifikasi dari https://github.com/WiMLDS/berlin-2020-scikit-sprint. Terima kasih!
