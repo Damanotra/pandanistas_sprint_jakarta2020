@@ -63,7 +63,7 @@ If you come across any trouble, feel free to contact me - Galuh https://twitter.
 
 # During the sprint (Feb 15, 2020)
 - Bring your laptop and charger
-- Be respectful, no form of harassment or discrimination is tolerated. Please read the [Code of Conduct](https://pydata.org/code-of-conduct/)
+- Be respectful, no form of harassment or discrimination is tolerated. Please read the [Code of Conduct](https://numfocus.org/code-of-conduct/)
 
 ## What will happen during the sprint
 - The organizers will assign you a documentation page to work on for the day
@@ -143,7 +143,7 @@ Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh https://twitter.co
 
 # Di saat sprint (Feb 15, 2020)
 - Bawa laptop dan charger-mu
-- Hormatilah satu sama lain, tidak ada bentuk pelecehan atau diskriminasi yang akan ditoleransi. Tolong baca [Code of Conduct](https://pydata.org/code-of-conduct/) terlebih dahulu.
+- Hormatilah satu sama lain, tidak ada bentuk pelecehan atau diskriminasi yang akan ditoleransi. Tolong baca [Code of Conduct](https://numfocus.org/code-of-conduct/) terlebih dahulu.
 
 ## Apa yang akan terjadi saat sprint
 - Panitia akan memberikan halaman dokumentasi untuk kamu kerjakan di hari-H
