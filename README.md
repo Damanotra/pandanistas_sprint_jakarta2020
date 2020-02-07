@@ -1,4 +1,4 @@
-# 2020 Pandanistas Documentation Sprint Jakarta
+# 2020 Pandas Documentation Sprint Jakarta
 
 > Versi Bahasa Indonesia dapat dibaca [di sini](https://github.com/pandanistas/pandanistas_sprint_jakarta2020#bahasa-indonesia).
 
