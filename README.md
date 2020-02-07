@@ -6,7 +6,7 @@
 
 # When
 - Saturday, February 15 2020
-- 2.30 PM - 8.30 PM
+- 2.30 PM - 7.30 PM
 
 # Where
 - Mozilla Community Space
@@ -27,7 +27,7 @@
 - 2 pm: Registration open
 - 2.30 pm - 4.00 pm: Sprint
 - 4.00 - 4.30 pm: Break
-- 4.30 pm - 8.30 pm: Sprint
+- 4.30 pm - 7.30 pm: Sprint
 
 ---
 
@@ -82,7 +82,7 @@ This repository is adapted & modified from https://github.com/WiMLDS/berlin-2020
 
 # Waktu
 Sabtu, 15 Februari 2020
-14.00 - 20.30
+14.00 - 19.30
 
 # Tempat
 - Mozilla Community Space
@@ -103,7 +103,7 @@ Sabtu, 15 Februari 2020
 - 2 pm: Registrasi dibuka
 - 2.30 pm - 4.00 pm: Sprint
 - 4.00 - 4.30 pm: Break
-- 4.30 pm - 8.30 pm: Sprint
+- 4.30 pm - 7.30 pm: Sprint
 
 # Contact
 - Galuh (https://twitter.com/galuhsahid / https://github.com/galuhsahid)
