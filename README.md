@@ -47,7 +47,7 @@ Install any of your preferred editor, below are some examples:
 - Atom
 - etc.
 
-## 3. Join [Gitter]
+## 3. Join [Gitter](https://gitter.im)
 Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories. You can use your GitHub username to sign in.
 
 Join the Gitter community for Pandas documentation sprints:
@@ -130,7 +130,7 @@ Install editor yang kamu inginkan, berikut adalah contohnya:
 - Atom
 - etc.
 
-## 3. Bergabung di [Gitter]
+## 3. Bergabung di [Gitter](https://gitter.im)
 Gitter adalah open-source instant messaging dan chat room system untuk pengembang dan pengguna repositori GitHub. Kamu dapat menggunakan username GitHub-mu untuk sign in. 
 
 Bergabung dengan komunitas Gitter untuk Pandas documentation sprints:
@@ -143,7 +143,7 @@ Bergabung dengan komunitas Gitter untuk Pandas documentation sprints:
 - Dokumentasi tentang bagaimana caranya mengatur development environment untuk pandas: https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env
 
 ## 6. Pelajari isu-isu yang akan kamu kerjakan di sprint
-Kami sudah membuat dashboard di mana kamu bisa mengeksplor banyak isu terkait dokumentasi pandas di sini [here](https://hub.gke.mybinder.org/user/pandanistas-docstring_notebooks-lvxcyxgm/notebooks/docstring_error_interactive.ipynb).
+Kami sudah membuat dashboard di mana kamu bisa mengeksplor banyak isu terkait dokumentasi pandas [di sini](https://hub.gke.mybinder.org/user/pandanistas-docstring_notebooks-lvxcyxgm/notebooks/docstring_error_interactive.ipynb).
 
 Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh https://twitter.com/galuhsahid / https://github.com/galuhsahid. Saya akan dengan senang hati membantu! :)
 
