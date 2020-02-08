@@ -17,7 +17,7 @@
 - [Pandas on GitHub](https://github.com/pandas-dev/pandas)
 - [Contribution guidelines](https://dev.pandas.io/docs/development/contributing.html)
 - [Docstring guide](https://dev.pandas.io/docs/development/contributing_docstring.html#docstring)
-- [Interactive dashboard](https://hub.gke.mybinder.org/user/pandanistas-docstring_notebooks-lvxcyxgm/notebooks/docstring_error_interactive.ipynb)
+- [Interactive dashboard](https://github.com/pandanistas/docstring_notebooks)
 
 ## More references
 - [Why contribute to open source?](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
@@ -97,7 +97,7 @@ Sabtu, 15 Februari 2020
 - [Pandas di GitHub](https://github.com/pandas-dev/pandas)
 - [Panduan berkontribusi](https://dev.pandas.io/docs/development/contributing.html)
 - [Panduan terkait docstring](https://dev.pandas.io/docs/development/contributing_docstring.html#docstring)
-- [Interactive dashboard](https://hub.gke.mybinder.org/user/pandanistas-docstring_notebooks-lvxcyxgm/notebooks/docstring_error_interactive.ipynb)
+- [Interactive dashboard](https://github.com/pandanistas/docstring_notebooks)
 
 ## Referensi-referensi lain
 - [Mengapa berkontribusi pada open source?](https://opensource.guide/id/how-to-contribute/)
