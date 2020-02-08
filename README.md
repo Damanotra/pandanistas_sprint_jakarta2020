@@ -59,6 +59,9 @@ Join the Gitter community for Pandas documentation sprints:
 ## 5. Setup the development environment
 - Documentation on how to setup the development environment: https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env
 
+## 6. Get familiar with the issues you will be working on
+We have made a dashboard where you can explore various issues related to pandas' documentation [here](https://hub.gke.mybinder.org/user/pandanistas-docstring_notebooks-lvxcyxgm/notebooks/docstring_error_interactive.ipynb).
+
 If you come across any trouble, feel free to contact me - Galuh https://twitter.com/galuhsahid / https://github.com/galuhsahid. I'd be happy to help!
 
 # During the sprint (Feb 15, 2020)
@@ -138,6 +141,9 @@ Bergabung dengan komunitas Gitter untuk Pandas documentation sprints:
 
 ## 5. Mengatur development environment
 - Dokumentasi tentang bagaimana caranya mengatur development environment untuk pandas: https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env
+
+## 6. Pelajari isu-isu yang akan kamu kerjakan di sprint
+Kami sudah membuat dashboard di mana kamu bisa mengeksplor banyak isu terkait dokumentasi pandas di sini [here](https://hub.gke.mybinder.org/user/pandanistas-docstring_notebooks-lvxcyxgm/notebooks/docstring_error_interactive.ipynb).
 
 Apabila kamu mengalami kesulitan, silakan hubungi saya, Galuh https://twitter.com/galuhsahid / https://github.com/galuhsahid. Saya akan dengan senang hati membantu! :)
 
