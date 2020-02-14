@@ -10,7 +10,7 @@
 
 # Where
 - Mozilla Community Space
-- Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
+- Gedung Tifa, Annex Suite Jl. Kuningan Barat I No.26 Mampang Prapatan - Jakarta 12710 (in the area of Gedung Tifa's motorcycle parking area) 
 - [Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
 
 # Key Links
@@ -90,7 +90,7 @@ Sabtu, 15 Februari 2020
 
 # Tempat
 - Mozilla Community Space
-- Jl. Kuningan Bar. 1 No.26, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710
+- Gedung Tifa, Annex Suite Jl. Kuningan Barat I No.26 Mampang Prapatan - Jakarta 12710 (berada satu area dengan parkir motor gedung Tifa) 
 - [Google Maps](https://www.google.com/maps/place/Mozilla+Community+Space+Jakarta/@-6.2351301,106.8209243,15z/data=!4m2!3m1!1s0x0:0x2fc28410f4b00987?sa=X&ved=2ahUKEwjXs-7frb3nAhXQ7XMBHa4tAacQ_BIwCnoECA0QCA)
 
 # Tautan-tautan penting
